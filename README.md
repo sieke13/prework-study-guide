@@ -1,5 +1,4 @@
 # prework-study-guide
-# prework-study-guide
 # <Your-Project-Title>
 
 ## Description
@@ -7,7 +6,9 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide: learn learn learn 
 
 - What was your motivation? get different offers of jobs
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") learning correctly the lenguage of programation
+- Why did you build this project? (Note: the answer is not "Because it,
+- was  a homework assignment.") learning correctly the lenguage of 
+- programation
 - What problem does it solve? doubts about programing 
 - What did you learn? escential and basic codes
 
