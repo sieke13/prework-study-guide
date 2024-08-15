@@ -1,4 +1,4 @@
-const topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
+feature/project-READM
 const randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
 function listTopics() {
