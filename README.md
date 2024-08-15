@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # <LearningCoding>
 
 ## Description
@@ -64,3 +66,4 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+>>>>>>> 22811efe2246a439b59361ddc4dba0e733a24e28
